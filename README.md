@@ -200,7 +200,7 @@ After running those three, open the relevant league notebook(s) and run top-to-b
 
 - **Player availability** — incorporate injury and suspension data to adjust team strength priors
 - **Ensemble models** — combine XGBoost with a Dixon-Coles or neural Poisson model to reduce variance
-- **Streamlit dashboard** — interactive UI to browse predictions, filter by league, and compare model odds vs. bookmaker lines
+- **Streamlit dashboard** — interactive UI to browse predictions, filter by league, and compare model prices with market prices
 - **Automated daily predictions** — schedule the data pull and prediction notebooks to run overnight and push outputs to a shared location
 
 ---
